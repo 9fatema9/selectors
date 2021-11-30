@@ -1,0 +1,27 @@
+#title{
+    color: rgb(221, 29, 221);
+}
+h2{
+    color: rgb(85, 194, 85);
+}
+body p {
+    color: rgb(73, 48, 184);
+}
+.text {
+    color: rgb(197, 179, 20);
+}
+.first{
+     color: rgb(231, 8, 38);
+}
+.second{
+    color: rgb(23, 153, 204);
+}
+.third{
+    color: rgb(5, 46, 15);
+}
+.fourth{
+    color:aqua;
+}
+.main {
+    color: lightslategray;
+}
